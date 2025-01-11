@@ -1,6 +1,6 @@
 # OlympicsHistory-Database-Analysis
 
-Data link - https://drive.google.com/drive/folders/1HtmFhsl1e46VwFtO9KTboK9wPUUZHmRP?usp=drive_link
+Data link - https://drive.google.com/drive/folders/1HtmFhsl1e46VwFtO9KTboK9wPUUZHmRP?usp=drive_link /
 Data analysis using various techniques such as, 
 
 - Equality and Inequality Joins
